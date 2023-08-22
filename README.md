@@ -1,6 +1,7 @@
 # Friend.Tech Public API Fetching
 
 API refer to: https://github.com/kopy-kat/friend-tech-api
+
 fetch base_url/users/by-id/[ID]
 
 output like:
